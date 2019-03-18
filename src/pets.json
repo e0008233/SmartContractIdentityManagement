@@ -2,129 +2,129 @@
   {
     "id": 0,
     "name": "Frieda",
-    "picture": "images/scottish-terrier.jpeg",
-    "age": 3,
-    "breed": "Scottish Terrier",
-    "location": "Lisco, Alabama"
+    "picture": "images/student1.jpg",
+    "age": 23,
+    "breed": "Faculty of Science",
+    "location": "4.2"
   },
   {
     "id": 1,
     "name": "Gina",
-    "picture": "images/scottish-terrier.jpeg",
-    "age": 3,
-    "breed": "Scottish Terrier",
-    "location": "Tooleville, West Virginia"
+    "picture": "images/student2.jpg",
+    "age": 23,
+    "breed": "Faculty of Engineering",
+    "location": "4.9"
   },
   {
     "id": 2,
     "name": "Collins",
-    "picture": "images/french-bulldog.jpeg",
-    "age": 2,
-    "breed": "French Bulldog",
-    "location": "Freeburn, Idaho"
+    "picture": "images/student3.png",
+    "age": 22,
+    "breed": "Faculty of Science",
+    "location": "3.5"
   },
   {
     "id": 3,
     "name": "Melissa",
-    "picture": "images/boxer.jpeg",
-    "age": 2,
-    "breed": "Boxer",
-    "location": "Camas, Pennsylvania"
+    "picture": "images/student4.jpg",
+    "age": 22,
+    "breed": "Faculty of Science",
+    "location": "3.7"
   },
   {
     "id": 4,
     "name": "Jeanine",
-    "picture": "images/french-bulldog.jpeg",
-    "age": 2,
-    "breed": "French Bulldog",
-    "location": "Gerber, South Dakota"
+    "picture": "images/student5.png",
+    "age": 22,
+    "breed": "Faculty of Science",
+    "location": "4.4"
   },
   {
     "id": 5,
     "name": "Elvia",
-    "picture": "images/french-bulldog.jpeg",
-    "age": 3,
-    "breed": "French Bulldog",
-    "location": "Innsbrook, Illinois"
+    "picture": "images/student6.png",
+    "age": 23,
+    "breed": "Faculty of Science",
+    "location": "4.3"
   },
   {
     "id": 6,
     "name": "Latisha",
-    "picture": "images/golden-retriever.jpeg",
-    "age": 3,
-    "breed": "Golden Retriever",
-    "location": "Soudan, Louisiana"
+    "picture": "images/student7.jpg",
+    "age": 24,
+    "breed": "Faculty of Engineering",
+    "location": "4.5"
   },
   {
     "id": 7,
     "name": "Coleman",
-    "picture": "images/golden-retriever.jpeg",
-    "age": 3,
-    "breed": "Golden Retriever",
-    "location": "Jacksonwald, Palau"
+    "picture": "images/student8.png",
+    "age": 21,
+    "breed": "School of Computing",
+    "location": "4.2"
   },
   {
     "id": 8,
     "name": "Nichole",
-    "picture": "images/french-bulldog.jpeg",
-    "age": 2,
-    "breed": "French Bulldog",
-    "location": "Honolulu, Hawaii"
+    "picture": "images/student9.png",
+    "age": 22,
+    "breed": "School of Computing",
+    "location": "3.1"
   },
   {
     "id": 9,
     "name": "Fran",
-    "picture": "images/boxer.jpeg",
-    "age": 3,
-    "breed": "Boxer",
-    "location": "Matheny, Utah"
+    "picture": "images/student10.png",
+    "age": 23,
+    "breed": "School of Computing",
+    "location": "4.3"
   },
   {
     "id": 10,
     "name": "Leonor",
-    "picture": "images/boxer.jpeg",
-    "age": 2,
-    "breed": "Boxer",
-    "location": "Tyhee, Indiana"
+    "picture": "images/student11.png",
+    "age": 21,
+    "breed": "School of Computing",
+    "location": "3.0"
   },
   {
     "id": 11,
     "name": "Dean",
-    "picture": "images/scottish-terrier.jpeg",
-    "age": 3,
-    "breed": "Scottish Terrier",
-    "location": "Windsor, Montana"
+    "picture": "images/student12.png",
+    "age": 22,
+    "breed": "School of Computing",
+    "location": "4.8"
   },
   {
     "id": 12,
     "name": "Stevenson",
-    "picture": "images/french-bulldog.jpeg",
-    "age": 3,
-    "breed": "French Bulldog",
-    "location": "Kingstowne, Nevada"
+    "picture": "images/student13.png",
+    "age": 21,
+    "breed": "Faculty of Engineering",
+    "location": "4.0"
   },
   {
     "id": 13,
     "name": "Kristina",
-    "picture": "images/golden-retriever.jpeg",
-    "age": 4,
-    "breed": "Golden Retriever",
-    "location": "Sultana, Massachusetts"
+    "picture": "images/student14.png",
+    "age": 24,
+    "breed": "Faculty of Engineering",
+    "location": "4.1"
   },
   {
     "id": 14,
     "name": "Ethel",
-    "picture": "images/golden-retriever.jpeg",
-    "age": 2,
-    "breed": "Golden Retriever",
-    "location": "Broadlands, Oregon"
+    "picture": "images/student15.png",
+    "age": 20,
+    "breed": "Faculty of Engineering",
+    "location": "4.3"
   },
   {
     "id": 15,
     "name": "Terry",
-    "picture": "images/golden-retriever.jpeg",
-    "age": 2,
-    "breed": "Golden Retriever",
-    "location": "Dawn, Wisconsin"
+    "picture": "images/student16.png",
+    "age": 21,
+    "breed": "Faculty of Engineering",
+    "location": "3.8"
   }
 ]
